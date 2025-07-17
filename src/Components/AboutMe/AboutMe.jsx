@@ -18,16 +18,16 @@ export default function AboutMe() {
      <p className='text-gray-400 text-center'>React, Next and Angular based in Egypt</p>
       <div className='flex justify-center items-center'>
         <a href="https://www.linkedin.com/in/youssef-hassan-professional1/" target='_blank' className='text-2xl text-gray-400 pt-4'>
-        <i className="fa-brands fa-linkedin  border-2 border-gray-500 rounded-lg  p-2 me-3"></i>
+        <i className="fa-brands fa-linkedin  border-2 border-gray-500 rounded-lg  p-2 me-3 hover:bg-gray-500 hover:text-white transition-all duration-300"></i>
         </a>
         <a href="https://github.com/Youssef-Hassan-Git" target='_blank' className='text-2xl text-gray-400 pt-4'>
-        <i className="fa-brands fa-github  border-2 border-gray-500 rounded-lg  p-2 me-3"></i>
+        <i className="fa-brands fa-github  border-2 border-gray-500 rounded-lg  p-2 me-3 hover:bg-gray-500 hover:text-white transition-all duration-300"></i>
         </a>
         <a href="http://Wa.me/201062065931" target='_blank' className='text-2xl text-gray-400 pt-4'>
-        <i className="fa-brands fa-whatsapp  border-2 border-gray-500 rounded-lg  p-2 me-3"></i>
+        <i className="fa-brands fa-whatsapp  border-2 border-gray-500 rounded-lg  p-2 me-3 hover:bg-gray-500 hover:text-white transition-all duration-300"></i>
         </a>        
         <a href="mailto:youssefhasssan7666@gmail.com" target='_blank' className='text-2xl text-gray-400 pt-4'>
-        <i className="fa-solid fa-envelope  border-2 border-gray-500 rounded-lg  p-2 me-3"></i>
+        <i className="fa-solid fa-envelope  border-2 border-gray-500 rounded-lg  p-2 me-3 hover:bg-gray-500 hover:text-white transition-all duration-300"></i>
         </a>
       </div>
         </div>
