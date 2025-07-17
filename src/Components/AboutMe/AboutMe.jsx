@@ -1,5 +1,5 @@
 import React from 'react'
-import aboutMe from '../../assets/images/aboutMe.jpg'
+import aboutMe from '../../assets/images/aboutme.jpg'
 import { Slide, Fade, Zoom   } from 'react-awesome-reveal'
 
 export default function AboutMe() {
