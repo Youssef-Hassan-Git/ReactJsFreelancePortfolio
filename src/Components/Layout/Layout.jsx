@@ -8,6 +8,7 @@ import Contact from '../Contact/Contact'
 import Navbar from '../Navbar/Navbar'
 import Footer from '../Footer/Footer'
 import ScrollTop from '../Scroll/ScrollTop'
+import Trainings from '../Training/Trainings'
 
 export default function Layout() {
   return (
@@ -18,6 +19,7 @@ export default function Layout() {
       <AboutMe />
       <Education />
       <Skills />
+      <Trainings />
       <Projects />
       <OfferedServices />
       <Contact />

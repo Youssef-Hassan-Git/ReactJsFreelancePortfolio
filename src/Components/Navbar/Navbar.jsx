@@ -28,6 +28,9 @@ export default function Navbar() {
                   <a href="#skills"  className="block py-2 px-3 text-gray-300 rounded-sm hover:bg-gray-800 md:hover:bg-transparent md:border-0 md:hover:text-blue-400 md:p-0">Skill</a>
                 </li>
                 <li>
+                  <a href="#trainings" className="block py-2 px-3 text-gray-300 rounded-sm hover:bg-gray-800 md:hover:bg-transparent md:border-0 md:hover:text-blue-400 md:p-0">Trainings</a>
+                </li>
+                <li>
                   <a href="#projects" className="block py-2 px-3 text-gray-300 rounded-sm hover:bg-gray-800 md:hover:bg-transparent md:border-0 md:hover:text-blue-400 md:p-0">Project</a>
                 </li>
                 <li>
